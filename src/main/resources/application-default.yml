@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: docker.local
+    username: smee-user
+    password: ENC(gTbq2KQ76FdVkdKdNLxXIvRucctt+HdL)
+    port: 5672
